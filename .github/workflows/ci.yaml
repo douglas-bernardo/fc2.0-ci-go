@@ -1,4 +1,4 @@
-name: ci-golang-workflow
+name: ci-golang-workflow-with-docker
 on: 
   pull_request:
     branches:
